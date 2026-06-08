@@ -1,4 +1,4 @@
-public class TwoSum{
+public class TwoSumSolution{
     public static void Main(string[] args)
     {
         int nums[] = {2,5,7,8,10};

@@ -1,0 +1,4 @@
+/Users/macbookair2015/Documents/LeetCode75/leetcode75/obj/Debug/net10.0/leetcode75.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair2015/Documents/LeetCode75/leetcode75/obj/Debug/net10.0/leetcode75.AssemblyInfoInputs.cache
+/Users/macbookair2015/Documents/LeetCode75/leetcode75/obj/Debug/net10.0/leetcode75.AssemblyInfo.cs
+/Users/macbookair2015/Documents/LeetCode75/leetcode75/obj/Debug/net10.0/leetcode75.csproj.CoreCompileInputs.cache

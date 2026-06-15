@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
+﻿//FindDuplicateSolution.RunExample();
+TwoSumSolution.RunExample();

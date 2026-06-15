@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 public class TwoSumSolution
 {
-    public static void Main(string[] args)
+    public static void RunExample()
     {
         int[] nums = { 2, 5, 7, 8, 10 };
         int target = 9;
